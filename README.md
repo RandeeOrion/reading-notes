@@ -6,6 +6,7 @@
 - **Pre-work Reading [Mindset](prework.md)**
 - **Class 1 [Ecosystems, TDD](class1.md)**
 - **Class 2 [ Classes, Inheritance, Function](class2.md)**
+- **Class 3 [ Databases ](class3.md)**
 
 
 
