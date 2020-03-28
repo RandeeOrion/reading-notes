@@ -9,6 +9,7 @@
 - **Class 3 [ Databases ](class3.md)**
 - **Class 4 [ More Databases](class4.md)**
 - **Class 5 [ DSA](class5.md)**
+- **Class 5 [ API](class6.md)**
 
 
 
