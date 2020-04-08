@@ -10,6 +10,7 @@
 - **Class 4 [ More Databases](class4.md)**
 - **Class 5 [ DSA](class5.md)**
 - **Class 6 [ API](class6.md)**
+- **Class 7 [Express Routing and Connect](class7.md)**
 - **Class 8 [Express Routing and Connect](class8.md)**
 
 
