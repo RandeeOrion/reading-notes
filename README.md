@@ -14,6 +14,7 @@
 - **Class 8 [Express Routing and Connect](class8.md)**
 - **Class 9 [API Server](class9.md)**
 - **Class 10 [Authentication](class10.md)**
+- **Class 11 [DSA Stacks and Queues](class11.md)**
 
 
 
