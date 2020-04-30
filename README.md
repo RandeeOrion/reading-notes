@@ -18,6 +18,7 @@
 - **Class 12 [O Auth](class12.md)**
 - **Class 13 [Bearer Authorization](class13.md)**
 - **Class 14 [Bearer Authorization](class14.md)**
+- **Class 15 [Bearer Authorization](class15.md)**
 
 
 
