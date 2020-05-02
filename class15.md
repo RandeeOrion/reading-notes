@@ -12,7 +12,7 @@ A leaf node is a something of a dead end, or rather has no children or connectio
 
 
 **What is the height of a fully balanced (each non-leaf node has two children) tree? What is this used for?**
-
+- The height of a fully balanced tree is 2^(h-1) and the only thing I can think this is used for is to get an idea of how long it is going to take to traverse a tree. 
 
 
 **How are stacks and queues used in relation to trees?**
