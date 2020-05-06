@@ -19,6 +19,7 @@
 - **Class 13 [Bearer Authorization](class13.md)**
 - **Class 14 [Bearer Authorization](class14.md)**
 - **Class 15 [Trees](class15.md)**
+- **Class 16 [Trees](class16.md)**
 
 
 
