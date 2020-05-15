@@ -19,7 +19,10 @@
 - **Class 13 [Bearer Authorization](class13.md)**
 - **Class 14 [Bearer Authorization](class14.md)**
 - **Class 15 [Trees](class15.md)**
-- **Class 16 [Trees](class16.md)**
+- **Class 16 [Things I still dont know](class16.md)**
+- **Class 17 [Socket Net](class17.md)**
+- **Class 18 [Socket IO](class18.md)**
+- **Class 19 [Message Queues](class19.md)**
 
 
 
