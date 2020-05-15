@@ -10,4 +10,4 @@
 
 **Is the Message Queue Server a socket.io client, a socket.io server, or an api server?**
 
-- Api server
+- socket.io server
