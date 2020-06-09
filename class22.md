@@ -10,4 +10,4 @@
 
 **What does npm run build do?**
 
--
+- Builds the app specified in the package.json script 
