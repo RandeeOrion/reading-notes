@@ -25,6 +25,8 @@
 - **Class 19 [Message Queues](class19.md)**
 - **Class 21 [Component based UI](class20.md)**
 - **Class 22 [React Testing](class22.md)**
+- **Class 23 [Props and States](class23.md)**
+- **Class 24 [Routing and Components](class24.md)**
 
 
 
