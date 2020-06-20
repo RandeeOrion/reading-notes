@@ -27,6 +27,7 @@
 - **Class 22 [React Testing](class22.md)**
 - **Class 23 [Props and States](class23.md)**
 - **Class 24 [Routing and Components](class24.md)**
+- **Class 25 [HashTables](class25.md)**
 
 
 
